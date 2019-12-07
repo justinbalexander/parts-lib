@@ -1,0 +1,43 @@
+C-1     1A1                   100nF 50V 0603 AC0603KRX7R9BB10 MLCC
+C-2     1A2                   1uF 16V 0603 VJ0603G105KXJCW1 MLCC
+C-3     1A3                   4.7uF 25V 0805 CC0805KKX5R8BB47 MLCC
+C-4     1A4                   2.2uF 16V 0603 CC0603KRX5R7BB22 MLCC
+C-5     1A5                   10uF 25V 1206 CC1206ZKY5V8BB10 MLCC
+C-6     1A6                   22nF 50V 0603 AC0603KRX7R9BB22 MLCC
+CONN-1  2D1                   Molex 051296-5494 .5P 54-Pin FFC/FPC LCD connector - compatible with LQ035NC111
+CONN-2  2D2   LCSC:C388691    FFC/FPC 5 pin .5P SMD
+CONN-3  1E1                   MicroSD Push-Push DM3AT-SF-PEJM5
+CONN-4  1E2                   MicroUSB  connector SMD
+CONN-5  1E3                   Lipo female, horizontal through hole A1250WR-02P
+D-1     1B1                   SMF12CA TVS SOD-123F
+D-2     1B2                   1N4148WS-7-F SOD-323 switching diode 75V 150mA 1.25V @ 150mA
+D-3     1B3                   NSR0240HT1G SOD-323 SBD
+D-4     1B4                   DFLS130L-7 PowerDI-123 SBD
+D-5     1B6   LCSC:C72043     LED Green 0603, 25mA, 110mW, 5V Reverse, Peak 110mA (duty 1/10 @ 1KHz), Cathode pointed to by green on underside
+F-1     1B5   LCSC:C118413    1206L150THWR PTC Resettable Fuse 8V 1.5A
+IC-1    2A1                   STM32F767ZGT6
+IC-2    1C1                   TPS61169 LED Driver SC-70-5
+IC-3    1C2                   8 MHz XO 25ppm SMD-3225-4P SiT8008AI-22-33E
+IC-4    2C1                   SDRAM TSOP(II)-54 Micron MT48LC16M16A2P-6
+IC-5    1C3                   MCP73832T-2ACI/O PMIC SOT-23-5 Lipo charge management
+IC-6    1C4                   LDO Fixed 3V3 400mV @ 500mA SOT-23-5 RT9013-33GB
+IC-7    1C5   LCSC:C113367    PAM8302AASCR MSOP-8 Class-D Audio OpAmp
+L-1     1D3   LCSC:C326302    SNR4018K-6R8M SMD 4mmx4mm 6.8uH 20% 1.3A rated, 1.45A saturation, 124mOhms DCR 3L Coils (note: similar made by Bourne)
+Q-1     1D1                   PNP 200mA 40V SOT-23-3 MMBT3906
+Q-2     1D2                   Mosfet P Trench 12V 4.3A IRLML6401TRPBF
+Q-3     1D4   LCSC:C108429    NPN 200mA 40V SOT-23-3 MMBT3904
+R-1     1F1                   100K 1% 0603
+R-2     1F2                   10K 1% 0603
+R-3     1F3                   1K 1% 0603
+R-4     1F4                   2K 1% 0603
+R-5     1F5                   2R2 1% 1206
+R-6     1F6                   10R2 1% 0603
+R-7     1F7                   47K 1% 0603
+R-8     1F8                   1M 1% 0603
+SW-1    2B1   LCSC:C393937    SK12D07VG4 3 position through hole right-angle toggle switch, P=2mm
+SW-2    2B2   LCSC:C285466    SPST 50mA @ 12V DC 6mmx6mmx3.55mm SMD Tactile Button Grey
+SW-3    2B2   LCSC:C221883    SPST 50mA @ 12V DC 6mmx6mmx3.55mm SMD Tactile Button Blue
+SW-4    2B3   LCSC:C221881    SPST 50mA @ 12V DC 6mmx6mmx1.55mm SMD Tactile Button Blue
+SW-5    2B3   LCSC:C221877    SPST 50mA @ 12V DC 6mmx6mmx1.55mm SMD Tactile Button Black
+SW-6    2B4   LCSC:C221884    SPST 50mA @ 12V DC 6mmx6mmx6.05mm SMD Tactile Button Blue
+SW-7    2B4   LCSC:C285479    SPST 50mA @ 12V DC 6mmx6mmx6.05mm SMD Tactile Button Black
