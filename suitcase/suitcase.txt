@@ -16,7 +16,7 @@ D-3     1B3                   NSR0240HT1G SOD-323 SBD
 D-4     1B4                   DFLS130L-7 PowerDI-123 SBD
 D-5     1B6   LCSC:C72043     LED Green 0603, 25mA, 110mW, 5V Reverse, Peak 110mA (duty 1/10 @ 1KHz), Cathode pointed to by green on underside
 F-1     1B5   LCSC:C118413    1206L150THWR PTC Resettable Fuse 8V 1.5A
-IC-1    2A1                   STM32F767ZGT6
+IC-1    2A1   LCSC:C91685     STM32F767ZGT6 - LQFP-144 20mm x 20mm
 IC-2    1C1                   TPS61169 LED Driver SC-70-5
 IC-3    1C2                   8 MHz XO 25ppm SMD-3225-4P SiT8008AI-22-33E
 IC-4    2C1                   SDRAM TSOP(II)-54 Micron MT48LC16M16A2P-6
