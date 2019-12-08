@@ -8,7 +8,8 @@ CONN-1  2D1                   Molex 051296-5494 .5P 54-Pin FFC/FPC LCD connector
 CONN-2  2D2   LCSC:C388691    FFC/FPC 5 pin .5P SMD
 CONN-3  1E1                   MicroSD Push-Push DM3AT-SF-PEJM5
 CONN-4  1E2                   MicroUSB  connector SMD
-CONN-5  1E3                   Lipo female, horizontal through hole A1250WR-02P
+CONN-5  1E3                   Lipo female, horizontal through hole A1250WR-02P, fits M-1 Speaker
+CONN-6  2D3   LCSC:C30732     54P FFC/FPC connector, compatible with LQ035NC111
 D-1     1B1                   SMF12CA TVS SOD-123F
 D-2     1B2                   1N4148WS-7-F SOD-323 switching diode 75V 150mA 1.25V @ 150mA
 D-3     1B3                   NSR0240HT1G SOD-323 SBD
@@ -23,6 +24,7 @@ IC-5    1C3                   MCP73832T-2ACI/O PMIC SOT-23-5 Lipo charge managem
 IC-6    1C4                   LDO Fixed 3V3 400mV @ 500mA SOT-23-5 RT9013-33GB
 IC-7    1C5   LCSC:C113367    PAM8302AASCR MSOP-8 Class-D Audio OpAmp
 L-1     1D3   LCSC:C326302    SNR4018K-6R8M SMD 4mmx4mm 6.8uH 20% 1.3A rated, 1.45A saturation, 124mOhms DCR 3L Coils (note: similar made by Bourne)
+M-1     EXT   LCSC:C391017    Speaker, 8 ohm, 2W, 28M03-8T-H52-L70, cable w/ connector, NO MOUNTING BRACKETS - picture is incorrect
 Q-1     1D1                   PNP 200mA 40V SOT-23-3 MMBT3906
 Q-2     1D2                   Mosfet P Trench 12V 4.3A IRLML6401TRPBF
 Q-3     1D4   LCSC:C108429    NPN 200mA 40V SOT-23-3 MMBT3904
@@ -41,3 +43,4 @@ SW-4    2B3   LCSC:C221881    SPST 50mA @ 12V DC 6mmx6mmx1.55mm SMD Tactile Butt
 SW-5    2B3   LCSC:C221877    SPST 50mA @ 12V DC 6mmx6mmx1.55mm SMD Tactile Button Black
 SW-6    2B4   LCSC:C221884    SPST 50mA @ 12V DC 6mmx6mmx6.05mm SMD Tactile Button Blue
 SW-7    2B4   LCSC:C285479    SPST 50mA @ 12V DC 6mmx6mmx6.05mm SMD Tactile Button Black
+SW-7    2B5   LCSC:C219778    Joystick, through hole, no push button
