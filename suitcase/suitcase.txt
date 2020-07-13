@@ -19,7 +19,7 @@ F-1     1B5   LCSC:C118413    1206L150THWR PTC Resettable Fuse 8V 1.5A
 IC-1    2A1   LCSC:C91685     STM32F767ZGT6 - LQFP-144 20mm x 20mm
 IC-2    1C1                   TPS61169 LED Driver SC-70-5
 IC-3    1C2                   8 MHz XO 25ppm SMD-3225-4P SiT8008AI-22-33E
-IC-4    2C1                   SDRAM TSOP(II)-54 Micron MT48LC16M16A2P-6
+IC-4    2C1                   SDRAM TSOP(II)-54 Micron MT48LC16M16A2P-6A
 IC-5    1C3                   MCP73832T-2ACI/O PMIC SOT-23-5 Lipo charge management
 IC-6    1C4                   LDO Fixed 3V3 400mV @ 500mA SOT-23-5 RT9013-33GB
 IC-7    1C5   LCSC:C113367    PAM8302AASCR MSOP-8 Class-D Audio OpAmp
